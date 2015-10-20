@@ -1,0 +1,10 @@
+.ruby-version
+/.bundle/
+/log/*
+!/log/.keep
+/tmp
+
+.DS_Store
+.project
+Thumbs.db
+config/database.yml
