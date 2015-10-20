@@ -7,4 +7,6 @@
 .DS_Store
 .project
 Thumbs.db
-config/database.yml
+
+
+db/development.sqlite3
